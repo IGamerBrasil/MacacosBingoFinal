@@ -1,0 +1,7 @@
+macaco vencedor foi o numero: 9, com: 2332 cocos 
+macaco vencedor foi o numero: 20, com: 15461 cocos
+macaco vencedor foi o numero: 38, com: 74413 cocos
+macaco vencedor foi o numero: 36, com: 145232 cocos
+macaco vencedor foi o numero: 177, com: 230276 cocos
+macaco vencedor foi o numero: 20, com: 182575 cocos
+macaco vencedor foi o numero: 589, com: 433295 cocos
