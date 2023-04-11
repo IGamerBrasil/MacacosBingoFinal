@@ -5,3 +5,4 @@ macaco vencedor foi o numero: 36, com: 145232 cocos
 macaco vencedor foi o numero: 177, com: 230276 cocos
 macaco vencedor foi o numero: 20, com: 182575 cocos
 macaco vencedor foi o numero: 589, com: 433295 cocos
+macaco vencedor foi o numero: 144, com: 581995 cocos

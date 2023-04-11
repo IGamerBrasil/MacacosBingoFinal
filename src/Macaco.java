@@ -13,17 +13,14 @@ public class Macaco {
     public int getCocoPar(){return cocoPar;}
     public int getCocoImpar(){return cocoImpar;}
 
-    public void setCocoPar(int numCocoPar)
-    {
+    public void setCocoPar(int numCocoPar){
         cocoPar = numCocoPar;
     }
 
-    public void setCocoImpar(int numCocoImpar)
-    {
+    public void setCocoImpar(int numCocoImpar){
         cocoImpar = numCocoImpar;
     }
-    public int getTotal()
-    {
+    public int getTotal(){
         return cocoPar + cocoImpar;
     }
 }
